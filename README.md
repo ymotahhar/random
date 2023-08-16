@@ -1,2 +1,2 @@
 # random
-Random selection from a list
+Random selection from a list..
